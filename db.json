@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Como se comportar numa entrevista",
+      "authorPhoto": "https://randomuser.me/api/portraits/women/67.jpg",
+      "authorName": "Maria",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum aliquet libero mi, sed mattis massa feugiat ac. Aliquam fringilla turpis est. Vivamus faucibus tellus",
+      "isLiked": true
+    },
+    {
+      "id": 2,
+      "title": "Como se comportar numa entrevista",
+      "authorPhoto": "https://randomuser.me/api/portraits/women/67.jpg",
+      "authorName": "Maria",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum aliquet libero mi, sed mattis massa feugiat ac. Aliquam fringilla turpis est. Vivamus faucibus tellus",
+      "isLiked": true
+    },
+    {
+      "id": 3,
+      "title": "Como se comportar numa entrevista",
+      "authorPhoto": "https://randomuser.me/api/portraits/women/66.jpg",
+      "authorName": "Clara",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum aliquet libero mi, sed mattis massa feugiat ac. Aliquam fringilla turpis est. Vivamus faucibus tellus",
+      "isLiked": true
+    }
+  ]
+}
